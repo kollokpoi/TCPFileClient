@@ -1,0 +1,15 @@
+H:\projects\C#\FTP sender\Client\bin\Debug\net6.0\Client.exe
+H:\projects\C#\FTP sender\Client\bin\Debug\net6.0\Client.deps.json
+H:\projects\C#\FTP sender\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+H:\projects\C#\FTP sender\Client\bin\Debug\net6.0\Client.dll
+H:\projects\C#\FTP sender\Client\bin\Debug\net6.0\Client.pdb
+H:\projects\C#\FTP sender\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+H:\projects\C#\FTP sender\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+H:\projects\C#\FTP sender\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+H:\projects\C#\FTP sender\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+H:\projects\C#\FTP sender\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+H:\projects\C#\FTP sender\Client\obj\Debug\net6.0\Client.dll
+H:\projects\C#\FTP sender\Client\obj\Debug\net6.0\refint\Client.dll
+H:\projects\C#\FTP sender\Client\obj\Debug\net6.0\Client.pdb
+H:\projects\C#\FTP sender\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+H:\projects\C#\FTP sender\Client\obj\Debug\net6.0\ref\Client.dll
